@@ -1,0 +1,12 @@
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\bin\Release\Parser.exe.config
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\bin\Release\Parser.exe
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\bin\Release\Parser.pdb
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\bin\Release\AngleSharp.dll
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\bin\Release\AngleSharp.xml
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\obj\Release\Parser.FormMain.resources
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\obj\Release\Parser.Properties.Resources.resources
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\obj\Release\Parser.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\obj\Release\Parser.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\obj\Release\Parser.csproj.CopyComplete
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\obj\Release\Parser.exe
+C:\Users\Kirill\Desktop\Html-Parser-Tutorial-master\obj\Release\Parser.pdb
